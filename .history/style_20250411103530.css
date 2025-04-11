@@ -6,11 +6,11 @@
 }
 
 body {
-    background-color: #000000;
+    background-color: #b6ba76;
 }
 
 .container-main {
-    background-color: #323232;
+    background-color: #c6ca85;
     width: 400px;
     height: 720px;
     box-sizing: border-box;
@@ -46,6 +46,19 @@ margin-bottom: 10px;
 
 .container-social-links a {
     text-decoration: none;
-    color: #ffffff;
+    color: #f4f8ea;
 }
 
+.container-social-links {
+    margin-top: 40px;
+}
+
+.container-social-links li {
+    width: 280px;
+    height: 40px;
+    background-color: #b6ba76;
+    margin: 15px 0;
+    padding: 8px 0;
+    border-radius: 20px;
+    font-weight: 700;
+}

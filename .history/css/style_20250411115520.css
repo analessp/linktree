@@ -1,0 +1,90 @@
+@import url(./effects.css);
+
+* {
+    font-family: "Nunito", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #3C3B3F;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+animation: gradientShift 10s ease infinite;
+    background-size: 400%;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+.container-main {
+    background-color: #9b825e;
+    width: 400px;
+    height: 720px;
+    box-sizing: border-box;
+    margin: 120px auto;
+    padding: 60px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.container-image img{
+        width: 258px;
+        height: 238px;
+        border-radius: 100px;
+}
+
+.container-infos {
+margin-top: 15px;
+margin-bottom: 10px;
+}
+
+.container-infos h1 {
+    font-weight: 900;
+}
+
+.container-infos h2 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.container-social-links {
+    margin-top: 40px;
+}
+
+.container-social-links ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.container-social-links a {
+ 
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+.container-social-links li {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    align-items: center;
+    width: 280px;
+    height: 40px;
+    background-color: #816946;
+    border-radius: 20px;
+    font-weight: 700;
+    transform-origin: 0.6s%;
+
+    &:hover {
+        background-color: bisque (0, 0, 0);
+        transform: scale(1.1);
+    }
+}
+ 
