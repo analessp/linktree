@@ -6,7 +6,7 @@ Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e
 
 ---
 
-## Funcionalidades
+## 💻 Funcionalidades
 
 - Layout responsivo para dispositivos móveis
 - Estilização personalizada com CSS
@@ -15,14 +15,14 @@ Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e
 
 ---
 
-## Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 
 ---
 
-## Como usar
+## 🔎 Como usar
 
 1. Clone este repositório:
    ```bash
@@ -32,7 +32,7 @@ Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e
 
 ---
 
-## Personalização
+## 🖌️ Personalização
 
 - Para mudar os links, edite o conteúdo do arquivo `index.html`.
 - Para alterar as cores, fontes e estilos, edite o `style.css`.
