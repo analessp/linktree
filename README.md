@@ -2,7 +2,7 @@
 
 # Linktree @ivi_afro.braids
 
-Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e CSS puro, com o objetivo de reunir em um só lugar todos os links importantes para o estúdio Ivi Afro Braids (redes sociais, WhatsApp, catálogo, etc).
+Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e CSS puro, com o objetivo de reunir em um só lugar todos os links importantes para o estúdio Ivi Afro Braids (redes sociais, catálogo, etc).
 
 ---
 
