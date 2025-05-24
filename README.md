@@ -1,34 +1,36 @@
 ---
 
-# Linktree
+# Ivi Afro Braids - Linktree Personalizado
 
-Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e CSS puro, com o objetivo de reunir em um só lugar todos os links importantes para o estúdio Ivi Afro Braids (redes sociais, catálogo, etc).
-
----
-
-## 💻 Funcionalidades
-
-- Layout responsivo para dispositivos móveis
-- Estilização personalizada com CSS
-- Ícones de redes sociais
-- Facilidade de personalização
+Este é um projeto de Linktree personalizado, desenvolvido especificamente para o Instagram da "Ivi Afro Braids", uma trancista dedicada a valorizar a cultura e resgatar a autoestima afro através do trancismo. O objetivo é fornecer um ponto centralizado e elegante para todos os links importantes da Ivi, facilitando o acesso de clientes e interessados ao seu trabalho e serviços.
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
-
-- HTML5
-- CSS3
+🌟 Recursos
+- Design Personalizado: Estilo visual único que reflete a identidade da "Ivi Afro Braids", com uma paleta de cores inspirada em tons terrosos e quentes.
+- Links Essenciais: Acesso rápido ao WhatsApp para agendamentos, ao catálogo de serviços (futuramente) e ao perfil do Instagram.
+- Responsivo: O layout se adapta perfeitamente a diferentes tamanhos de tela (desktop, tablet e celular), garantindo uma ótima experiência ao usuário.
+- Animações Sutis: Efeitos de hover nos botões e um gradiente animado no fundo para uma interface mais dinâmica e moderna.
+- Mensagem de Impacto: Um espaço dedicado para a missão da "Ivi Afro Braids", reforçando seus valores.
+- Ícones Profissionais: Utilização de ícones do Font Awesome para uma navegação intuitiva.
 
 ---
 
-## 🔎 Como usar
+## 🛠️ Tecnologias Utilizadas
+- HTML5: Estrutura semântica do conteúdo.
+- CSS3: Estilização e design responsivo, incluindo gradientes e animações.
+- Google Fonts: Para a tipografia (Red Hat Display).
+- Font Awesome: Biblioteca de ícones.
 
-1. Clone este repositório:
-   ```bash
+---
+
+🚀 Como Usar
+1. Clone o Repositório:
+Bash
    git clone https://github.com/analessp/linktree.git
-   ```
-2. Abra o arquivo `index.html` no seu navegador.
+   
+3. Navegue até o Diretório:
+   cd seu-repositorio
 
 ---
 
@@ -46,5 +48,5 @@ Este é um projeto pessoal inspirado no Linktree, desenvolvido utilizando HTML e
 ---
 
 ## Autor
-
+Instagram da Ivi: @vi_afro.braids
 Feito por Ana Lessa.
