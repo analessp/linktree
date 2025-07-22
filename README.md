@@ -6,7 +6,7 @@ Este é um projeto de Linktree personalizado, desenvolvido especificamente para 
 
 ---
 
-🌟 Recursos
+## Recursos
 - Design Personalizado: Estilo visual único que reflete a identidade da "Ivi Afro Braids", com uma paleta de cores inspirada em tons terrosos e quentes.
 - Links Essenciais: Acesso rápido ao WhatsApp para agendamentos, ao catálogo de serviços (futuramente) e ao perfil do Instagram.
 - Responsivo: O layout se adapta perfeitamente a diferentes tamanhos de tela (desktop, tablet e celular), garantindo uma ótima experiência ao usuário.
@@ -16,7 +16,7 @@ Este é um projeto de Linktree personalizado, desenvolvido especificamente para 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML5: Estrutura semântica do conteúdo.
 - CSS3: Estilização e design responsivo, incluindo gradientes e animações.
 - Google Fonts: Para a tipografia (Red Hat Display).
@@ -24,7 +24,7 @@ Este é um projeto de Linktree personalizado, desenvolvido especificamente para 
 
 ---
 
-🚀 Como Usar
+ ## Como Usar
 1. Clone o Repositório:
 Bash
    git clone https://github.com/analessp/linktree.git
@@ -34,7 +34,7 @@ Bash
 
 ---
 
-## 🖌️ Personalização
+## Personalização
 
 - Para mudar os links, edite o conteúdo do arquivo `index.html`.
 - Para alterar as cores, fontes e estilos, edite o `style.css`.
@@ -43,10 +43,4 @@ Bash
 
 ## Status do Projeto
 
-✅ Concluído — aberto para melhorias e personalizações futuras.
-
----
-
-## Autor
-Instagram da Ivi: @vi_afro.braids
-Feito por Ana Lessa.
+Concluído — aberto para melhorias e personalizações futuras.
