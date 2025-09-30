@@ -35,5 +35,3 @@ Projeto de **Linktree customizado** para centralizar os principais links da Ivi 
 
 - 🔗  **[LinkedIn](https://linkedin.com/in/ana-lessa-2a312a253)**
 - 📩  **[E-mail](lessakesia07@gmail.com)**
-- 📧 **[E-mail](lessakesia07@gmail.com)**
----
