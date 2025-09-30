@@ -29,3 +29,11 @@ Projeto de **Linktree customizado** para centralizar os principais links da Ivi 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/analessp/linktree.git
+---
+
+## 📬 Contato
+
+- 🔗  **[LinkedIn](https://linkedin.com/in/ana-lessa-2a312a253)**
+- 📩  **[E-mail](lessakesia07@gmail.com)**
+- 📧 **[E-mail](lessakesia07@gmail.com)**
+---
